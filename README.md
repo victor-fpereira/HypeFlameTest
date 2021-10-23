@@ -8,7 +8,7 @@ Cenário 2: Validação de itens retornados pelas categorias dos submenus do ite
 
 Verificar se os itens retornados pela lupa de pesquisa são os mesmos encontrados na página quando se clica no submenu buscando pelo nome.
 
-Cenário 2: Validação dos endpoints
+Cenário 3: Validação dos endpoints
 
 Verificar se os nomes dos endpoints da barra de pesquisa batem com os nomes dos subitens do menu blog.
 
